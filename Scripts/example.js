@@ -8,6 +8,3 @@ console.log("Shakeel");
 console.log("Shakeel");
 console.log("Shakeel");
 console.log("Shakeel");
-console.log("Shakeel");
-console.log("Shakeel");
-console.log("Shakeel");
